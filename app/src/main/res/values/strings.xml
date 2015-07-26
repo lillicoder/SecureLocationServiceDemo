@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright 2014 Scott Weeden-Moody
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">SecureLocationServiceDemo</string>
+
+    <string name="cached_address">Cached Address</string>
+    <string name="cached_location">Cached Location</string>
+
+    <string name="location_info_accuracy">Accuracy</string>
+    <string name="location_info_address">Address</string>
+    <string name="location_info_admin">Admin</string>
+    <string name="location_info_altitude">Altitude</string>
+    <string name="location_info_bearing">Bearing</string>
+    <string name="location_info_country_code">Country Code</string>
+    <string name="location_info_country_name">Country Name</string>
+    <string name="location_info_feature">Feature</string>
+    <string name="location_info_latitude">Latitude</string>
+    <string name="location_info_locality">Locality</string>
+    <string name="location_info_longitude">Longitude</string>
+    <string name="location_info_not_available">Currently Unavailable</string>
+    <string name="location_info_phone">Phone</string>
+    <string name="location_info_postal_code">Postal Code</string>
+    <string name="location_info_provider">Provider</string>
+    <string name="location_info_speed">Speed</string>
+    <string name="location_info_sub_admin">Sub-Admin</string>
+    <string name="location_info_thoroughfare">Thoroughfare</string>
+    <string name="location_info_time">Time</string>
+    <string name="location_info_url">URL</string>
+
+    <string name="location_provider_name">Name</string>
+    <string name="location_provider_accuracy">Accuracy</string>
+    <string name="location_provider_power_requirement">Power Requirement</string>
+    <string name="location_provider_has_cost">Has Cost</string>
+
+    <string-array name="location_provider_types">
+        <item>gps</item>
+        <item>network</item>
+        <item>passive</item>
+    </string-array>
+
+    <string name="location_providers">Location Providers</string>
+
+    <string name="mock_location_status_disabled">Mock locations are disabled</string>
+    <string name="mock_location_status_enabled">Mock locations are enabled</string>
+
+    <string name="service_status_connected">Location service is connected</string>
+    <string name="service_status_disconnected">Location service is disconnected</string>
+
+</resources>

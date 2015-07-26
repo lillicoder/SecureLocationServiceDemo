@@ -1,0 +1,12 @@
+/bin
+/build
+/gen
+/out
+.classpath
+.idea
+.project
+.gradle
+*.iml
+local.properties
+proguard-project.txt
+Thumbs.db
